@@ -1,0 +1,2 @@
+config.app.name: Spring Boot Testing
+greeting: Welcome. This message is from application.yml
